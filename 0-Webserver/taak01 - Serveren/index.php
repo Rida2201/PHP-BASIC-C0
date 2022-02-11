@@ -1,4 +1,4 @@
 <?php
 
 
-echo "Hallo en Welkom!";
+echo "0";
